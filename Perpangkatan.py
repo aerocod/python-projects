@@ -1,0 +1,11 @@
+print("Selamat Datang di Program Perpangkatan")
+print("                                                             ")
+while True:
+    print("                                                                 ")
+    pangkat=eval(input("Masukan Angka Yang ingin Dipangkatkan: "))
+    print("                                                                 ")
+    Pangkat2=eval(input("Masukan Pangkat: "))
+    print("                                                                 ")
+    Perpangkatan=(pangkat**Pangkat2)
+    print("                                                                 ")
+    print("Hasil Perpangkatan adalah: "+str(Perpangkatan))
