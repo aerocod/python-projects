@@ -10,10 +10,11 @@ while True:
     if calc=='1':
         print("1. Line Aritmethic Calculator")
         print("2. Row Aritmethic Calculator")
-        if acalc=='1':
-        elif acalc=='2':
+        if calc=='1':
+        elif calc=='2':
         
     elif calc=='2':
+        
     else:
         print("Please Input The Number Correctly")
         return calc
